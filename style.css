@@ -1,0 +1,25 @@
+.para {
+  display: flex;
+  font-size:medium ;
+  gap: 200px;
+  color: aqua;
+  justify-content: center;
+}
+.name {
+  color: blue;
+
+}
+h1 {
+  display: flex;
+  font-size: large;
+  /* justify-content:  center; */
+  /* align-items: center; */
+  color: blue;
+  /* background: #000; */
+}
+
+.div{
+  display: block;
+  color: blueviolet;
+  font-size: larger;
+}
